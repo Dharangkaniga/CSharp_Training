@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment-3\\Banking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC891B-5303-4A95-86FB-11E4929E76BA}|Banking\\Banking.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment-3\\banking\\banking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DC891B-5303-4A95-86FB-11E4929E76BA}|Banking\\Banking.csproj|solutionrelative:banking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC891B-5303-4A95-86FB-11E4929E76BA}|Banking\\Banking.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment-3\\banking\\banking\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DC891B-5303-4A95-86FB-11E4929E76BA}|Banking\\Banking.csproj|solutionrelative:banking\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC891B-5303-4A95-86FB-11E4929E76BA}|Banking\\Banking.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment-3\\banking\\banking\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DC891B-5303-4A95-86FB-11E4929E76BA}|Banking\\Banking.csproj|solutionrelative:banking\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment-3\\Banking\\Banking\\Student.cs",
+              "RelativeDocumentMoniker": "Banking\\Student.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment-3\\Banking\\Banking\\Student.cs",
+              "RelativeToolTip": "Banking\\Student.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:14:42.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment-3\\Banking\\Banking\\Sales.cs",
+              "RelativeDocumentMoniker": "Banking\\Sales.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment-3\\Banking\\Banking\\Sales.cs",
+              "RelativeToolTip": "Banking\\Sales.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:11:23.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment-3\\Banking\\Banking\\Program.cs",
+              "RelativeDocumentMoniker": "Banking\\Program.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment-3\\Banking\\Banking\\Program.cs*",
+              "RelativeToolTip": "Banking\\Program.cs*",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAYwE4AAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T15:25:07.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

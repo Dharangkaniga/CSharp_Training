@@ -1,0 +1,161 @@
+1. Write a C# Sharp program to accept two integers and check whether they are equal or not. 
+
+using System;
+
+public class Numbers
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Enter Number1: ");
+        int Num1=Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter Number2: ");
+        int Num2=Convert.ToInt32(Console.ReadLine());
+        if(Num1==Num2)
+        {
+            Console.WriteLine($"{Num1} and {Num2} are Equal");
+        }
+        else
+        {
+            Console.WriteLine($"{Num1} and {Num2} are Not Equal");
+            
+        }
+        
+    }
+}
+
+ 
+<---------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+2. Write a C# Sharp program to check whether a given number is positive or negative. 
+
+
+
+using System;
+
+public class PositiveorNegative
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Enter Number: ");
+        int Num=int.Parse(Console.ReadLine());
+        if(Num>0)
+        {
+            Console.WriteLine($"{Num} is a Positive Number");
+        }
+        else if(Num<0)
+        {
+            Console.WriteLine($"{Num} is a Negative Number");
+        }
+        else
+        {
+            Console.WriteLine($"Given Number is Zero");
+        }
+        
+    }
+}
+
+<--------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+3. Write a C# Sharp program that takes two numbers as input and performs all operations (+,-,*,/) on them and displays the result of that operation. 
+
+using System;
+
+public class Operations
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Enter First Number: ");
+        int Num1=Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter Operation:");
+        char Operation=Console.ReadLine()[0];
+        Console.WriteLine("Enter Second Number: ");
+        int Num2=Convert.ToInt32(Console.ReadLine());
+         switch(Operation)
+         {
+            case '+':
+            Console.WriteLine("Result:");
+            Console.WriteLine($"{Num1} {Operation} {Num2}={Num1+Num2}");
+            break;
+            
+            case '-':
+            Console.WriteLine("Result:");
+            Console.WriteLine($"{Num1} {Operation} {Num2}={Num1-Num2}");
+            break;
+            
+            case '*':
+            Console.WriteLine("Result:");
+            Console.WriteLine($"{Num1} {Operation} {Num2}={Num1*Num2}");
+            break;
+            
+            case '/':
+            if(Num2!=0)
+            {
+                Console.WriteLine("Result:");
+                Console.WriteLine($"{Num1}{Operation}{Num2}=  {Num1/Num2}");
+                break;
+            }
+            else
+            {
+                Console.WriteLine("Result:");
+                Console.WriteLine("Cannot be divisible by Zero");
+                break;
+            }
+            default:
+            Console.WriteLine("Invalid Operator");
+            break;
+             
+         }
+        
+        
+    }
+}
+
+<---------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+4. Write a C# Sharp program that prints the multiplication table of a number as input.
+
+
+
+using System;
+
+public class MultiplicationTables
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Enter Tables Number:");
+        int Number=Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine(" ");
+        for(int i=0;i<=10;i++)
+        {
+            Console.WriteLine($"{Number}* {i}= {Number*i}");
+        }
+         
+    }
+}
+
+<--------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+5.  Write a C# program to compute the sum of two given integers. If two values are the same, return the triple of their sum.
+
+using System;
+
+public class MultiplicationTables
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Enter Number1:");
+        int Num1=Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter Number2:");
+        int Num2=Convert.ToInt32(Console.ReadLine());
+        if(Num1!=Num2)
+        {
+            Console.WriteLine($"Numbers are Not Same\nSum of Numbers: {Num1+Num2}");
+        }
+        else
+        {
+            Console.WriteLine($"Numbers are Same\nTriple Of Sum: {(Num1+Num2)*3}");
+        }
+     
+    }
+}
+

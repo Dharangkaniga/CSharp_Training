@@ -1,0 +1,8 @@
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment-3\Banking\Banking\bin\Debug\Banking.exe.config
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment-3\Banking\Banking\bin\Debug\Banking.exe
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment-3\Banking\Banking\bin\Debug\Banking.pdb
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment-3\Banking\Banking\obj\Debug\Banking.csproj.AssemblyReference.cache
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment-3\Banking\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment-3\Banking\Banking\obj\Debug\Banking.exe
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment-3\Banking\Banking\obj\Debug\Banking.pdb
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment-3\Banking\Banking\obj\Debug\Banking.exe.config
