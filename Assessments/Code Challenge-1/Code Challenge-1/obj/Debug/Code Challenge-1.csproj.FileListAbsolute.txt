@@ -1,0 +1,8 @@
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge-1\Code Challenge-1\bin\Debug\Code Challenge-1.exe.config
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge-1\Code Challenge-1\bin\Debug\Code Challenge-1.exe
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge-1\Code Challenge-1\bin\Debug\Code Challenge-1.pdb
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge-1\Code Challenge-1\obj\Debug\Code Challenge-1.csproj.AssemblyReference.cache
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge-1\Code Challenge-1\obj\Debug\Code Challenge-1.csproj.CoreCompileInputs.cache
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge-1\Code Challenge-1\obj\Debug\Code Challenge-1.exe
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge-1\Code Challenge-1\obj\Debug\Code Challenge-1.pdb
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge-1\Code Challenge-1\obj\Debug\Code Challenge-1.exe.config
