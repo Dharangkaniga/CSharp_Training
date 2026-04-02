@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC00850-E5D2-4B6A-A79C-7ED2E021CBB8}|C# Assignment 2\\C# Assignment 2.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment 2\\c# assignment 2\\stringoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC00850-E5D2-4B6A-A79C-7ED2E021CBB8}|C# Assignment 2\\C# Assignment 2.csproj|solutionrelative:c# assignment 2\\stringoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC00850-E5D2-4B6A-A79C-7ED2E021CBB8}|C# Assignment 2\\C# Assignment 2.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment 2\\c# assignment 2\\array3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC00850-E5D2-4B6A-A79C-7ED2E021CBB8}|C# Assignment 2\\C# Assignment 2.csproj|solutionrelative:c# assignment 2\\array3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC00850-E5D2-4B6A-A79C-7ED2E021CBB8}|C# Assignment 2\\C# Assignment 2.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment 2\\c# assignment 2\\array2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC00850-E5D2-4B6A-A79C-7ED2E021CBB8}|C# Assignment 2\\C# Assignment 2.csproj|solutionrelative:c# assignment 2\\array2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC00850-E5D2-4B6A-A79C-7ED2E021CBB8}|C# Assignment 2\\C# Assignment 2.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment 2\\c# assignment 2\\array1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC00850-E5D2-4B6A-A79C-7ED2E021CBB8}|C# Assignment 2\\C# Assignment 2.csproj|solutionrelative:c# assignment 2\\array1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC00850-E5D2-4B6A-A79C-7ED2E021CBB8}|C# Assignment 2\\C# Assignment 2.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment 2\\c# assignment 2\\day.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC00850-E5D2-4B6A-A79C-7ED2E021CBB8}|C# Assignment 2\\C# Assignment 2.csproj|solutionrelative:c# assignment 2\\day.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC00850-E5D2-4B6A-A79C-7ED2E021CBB8}|C# Assignment 2\\C# Assignment 2.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment 2\\c# assignment 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC00850-E5D2-4B6A-A79C-7ED2E021CBB8}|C# Assignment 2\\C# Assignment 2.csproj|solutionrelative:c# assignment 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringOperations.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 2\\C# Assignment 2\\StringOperations.cs",
+              "RelativeDocumentMoniker": "C# Assignment 2\\StringOperations.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 2\\C# Assignment 2\\StringOperations.cs",
+              "RelativeToolTip": "C# Assignment 2\\StringOperations.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwCcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T16:13:36.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Array3.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 2\\C# Assignment 2\\Array3.cs",
+              "RelativeDocumentMoniker": "C# Assignment 2\\Array3.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 2\\C# Assignment 2\\Array3.cs",
+              "RelativeToolTip": "C# Assignment 2\\Array3.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T16:07:39.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Array2.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 2\\C# Assignment 2\\Array2.cs",
+              "RelativeDocumentMoniker": "C# Assignment 2\\Array2.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 2\\C# Assignment 2\\Array2.cs",
+              "RelativeToolTip": "C# Assignment 2\\Array2.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T15:53:17.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Array1.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 2\\C# Assignment 2\\Array1.cs",
+              "RelativeDocumentMoniker": "C# Assignment 2\\Array1.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 2\\C# Assignment 2\\Array1.cs",
+              "RelativeToolTip": "C# Assignment 2\\Array1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywBsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T15:44:03.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Day.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 2\\C# Assignment 2\\Day.cs",
+              "RelativeDocumentMoniker": "C# Assignment 2\\Day.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 2\\C# Assignment 2\\Day.cs",
+              "RelativeToolTip": "C# Assignment 2\\Day.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T15:41:49.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 2\\C# Assignment 2\\Program.cs",
+              "RelativeDocumentMoniker": "C# Assignment 2\\Program.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 2\\C# Assignment 2\\Program.cs",
+              "RelativeToolTip": "C# Assignment 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T15:38:32.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

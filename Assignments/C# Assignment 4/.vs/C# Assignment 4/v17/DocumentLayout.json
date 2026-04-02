@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1243564D-26B0-4ABD-8AFB-99953ECAB0F1}|C# Assignment 4\\C# Assignment 4.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment 4\\c# assignment 4\\stackoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1243564D-26B0-4ABD-8AFB-99953ECAB0F1}|C# Assignment 4\\C# Assignment 4.csproj|solutionrelative:c# assignment 4\\stackoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1243564D-26B0-4ABD-8AFB-99953ECAB0F1}|C# Assignment 4\\C# Assignment 4.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment 4\\c# assignment 4\\positionexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1243564D-26B0-4ABD-8AFB-99953ECAB0F1}|C# Assignment 4\\C# Assignment 4.csproj|solutionrelative:c# assignment 4\\positionexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1243564D-26B0-4ABD-8AFB-99953ECAB0F1}|C# Assignment 4\\C# Assignment 4.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment 4\\c# assignment 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1243564D-26B0-4ABD-8AFB-99953ECAB0F1}|C# Assignment 4\\C# Assignment 4.csproj|solutionrelative:c# assignment 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StackOperations.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 4\\C# Assignment 4\\StackOperations.cs",
+              "RelativeDocumentMoniker": "C# Assignment 4\\StackOperations.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 4\\C# Assignment 4\\StackOperations.cs",
+              "RelativeToolTip": "C# Assignment 4\\StackOperations.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T16:36:10.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PositionExchange.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 4\\C# Assignment 4\\PositionExchange.cs",
+              "RelativeDocumentMoniker": "C# Assignment 4\\PositionExchange.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 4\\C# Assignment 4\\PositionExchange.cs",
+              "RelativeToolTip": "C# Assignment 4\\PositionExchange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T16:28:12.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 4\\C# Assignment 4\\Program.cs",
+              "RelativeDocumentMoniker": "C# Assignment 4\\Program.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 4\\C# Assignment 4\\Program.cs",
+              "RelativeToolTip": "C# Assignment 4\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T16:25:31.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
