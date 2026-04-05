@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7073D31F-1EB6-49E9-81F2-A1150302E3EB}|C# Assignment 5\\C# Assignment 5.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment 5\\c# assignment 5\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7073D31F-1EB6-49E9-81F2-A1150302E3EB}|C# Assignment 5\\C# Assignment 5.csproj|solutionrelative:c# assignment 5\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7073D31F-1EB6-49E9-81F2-A1150302E3EB}|C# Assignment 5\\C# Assignment 5.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment 5\\c# assignment 5\\scholarship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7073D31F-1EB6-49E9-81F2-A1150302E3EB}|C# Assignment 5\\C# Assignment 5.csproj|solutionrelative:c# assignment 5\\scholarship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7073D31F-1EB6-49E9-81F2-A1150302E3EB}|C# Assignment 5\\C# Assignment 5.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment 5\\c# assignment 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7073D31F-1EB6-49E9-81F2-A1150302E3EB}|C# Assignment 5\\C# Assignment 5.csproj|solutionrelative:c# assignment 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 5\\C# Assignment 5\\Books.cs",
+              "RelativeDocumentMoniker": "C# Assignment 5\\Books.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 5\\C# Assignment 5\\Books.cs",
+              "RelativeToolTip": "C# Assignment 5\\Books.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:56:55.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scholarship.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 5\\C# Assignment 5\\Scholarship.cs",
+              "RelativeDocumentMoniker": "C# Assignment 5\\Scholarship.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 5\\C# Assignment 5\\Scholarship.cs",
+              "RelativeToolTip": "C# Assignment 5\\Scholarship.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwCEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:28:53.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 5\\C# Assignment 5\\Program.cs",
+              "RelativeDocumentMoniker": "C# Assignment 5\\Program.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment 5\\C# Assignment 5\\Program.cs",
+              "RelativeToolTip": "C# Assignment 5\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:11:42.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
