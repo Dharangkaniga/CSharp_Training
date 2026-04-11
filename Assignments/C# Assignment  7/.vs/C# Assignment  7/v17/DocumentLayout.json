@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82C3F7BD-90CC-497D-943C-24432EB7FC81}|C# Assignment  7\\C# Assignment  7.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment  7\\c# assignment  7\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C3F7BD-90CC-497D-943C-24432EB7FC81}|C# Assignment  7\\C# Assignment  7.csproj|solutionrelative:c# assignment  7\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8CCB82-3C33-462E-BE0B-DA86CEB30C07}|TicketCalculator\\TicketCalculator.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment  7\\ticketcalculator\\concessioncalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8CCB82-3C33-462E-BE0B-DA86CEB30C07}|TicketCalculator\\TicketCalculator.csproj|solutionrelative:ticketcalculator\\concessioncalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C3F7BD-90CC-497D-943C-24432EB7FC81}|C# Assignment  7\\C# Assignment  7.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment  7\\c# assignment  7\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C3F7BD-90CC-497D-943C-24432EB7FC81}|C# Assignment  7\\C# Assignment  7.csproj|solutionrelative:c# assignment  7\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C3F7BD-90CC-497D-943C-24432EB7FC81}|C# Assignment  7\\C# Assignment  7.csproj|C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\c# assignment  7\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C3F7BD-90CC-497D-943C-24432EB7FC81}|C# Assignment  7\\C# Assignment  7.csproj|solutionrelative:c# assignment  7\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C3F7BD-90CC-497D-943C-24432EB7FC81}|C# Assignment  7\\C# Assignment  7.csproj|C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\c# assignment  7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C3F7BD-90CC-497D-943C-24432EB7FC81}|C# Assignment  7\\C# Assignment  7.csproj|solutionrelative:c# assignment  7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConcessionCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\TicketCalculator\\ConcessionCalculator.cs",
+              "RelativeDocumentMoniker": "TicketCalculator\\ConcessionCalculator.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\TicketCalculator\\ConcessionCalculator.cs",
+              "RelativeToolTip": "TicketCalculator\\ConcessionCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T15:12:25.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "program4.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\C# Assignment  7\\program4.cs",
+              "RelativeDocumentMoniker": "C# Assignment  7\\program4.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\C# Assignment  7\\program4.cs",
+              "RelativeToolTip": "C# Assignment  7\\program4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T14:46:36.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "program3.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\C# Assignment  7\\program3.cs",
+              "RelativeDocumentMoniker": "C# Assignment  7\\program3.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\C# Assignment  7\\program3.cs",
+              "RelativeToolTip": "C# Assignment  7\\program3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T14:06:59.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "program2.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\C# Assignment  7\\program2.cs",
+              "RelativeDocumentMoniker": "C# Assignment  7\\program2.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\C# Assignment  7\\program2.cs",
+              "RelativeToolTip": "C# Assignment  7\\program2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T14:02:35.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\C# Assignment  7\\Program.cs",
+              "RelativeDocumentMoniker": "C# Assignment  7\\Program.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\C# Assignment  7\\Program.cs",
+              "RelativeToolTip": "C# Assignment  7\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T13:53:46.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

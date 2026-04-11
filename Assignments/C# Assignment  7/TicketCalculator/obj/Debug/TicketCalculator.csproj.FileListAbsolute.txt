@@ -1,0 +1,6 @@
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment  7\TicketCalculator\bin\Debug\TicketCalculator.dll
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment  7\TicketCalculator\bin\Debug\TicketCalculator.pdb
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment  7\TicketCalculator\obj\Debug\TicketCalculator.csproj.AssemblyReference.cache
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment  7\TicketCalculator\obj\Debug\TicketCalculator.csproj.CoreCompileInputs.cache
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment  7\TicketCalculator\obj\Debug\TicketCalculator.dll
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment  7\TicketCalculator\obj\Debug\TicketCalculator.pdb

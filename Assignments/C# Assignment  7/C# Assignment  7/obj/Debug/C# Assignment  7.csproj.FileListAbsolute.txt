@@ -1,0 +1,11 @@
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment  7\C# Assignment  7\bin\Debug\C# Assignment  7.exe.config
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment  7\C# Assignment  7\bin\Debug\C# Assignment  7.exe
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment  7\C# Assignment  7\bin\Debug\C# Assignment  7.pdb
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment  7\C# Assignment  7\obj\Debug\C# Assignment  7.csproj.AssemblyReference.cache
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment  7\C# Assignment  7\obj\Debug\C# Assignment  7.csproj.CoreCompileInputs.cache
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment  7\C# Assignment  7\obj\Debug\C# Assignment  7.exe
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment  7\C# Assignment  7\obj\Debug\C# Assignment  7.pdb
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment  7\C# Assignment  7\obj\Debug\C# Assignment  7.exe.config
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment  7\C# Assignment  7\bin\Debug\TicketCalculator.dll
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment  7\C# Assignment  7\bin\Debug\TicketCalculator.pdb
+C:\Users\dharangkanigas\DotNet Training\Assignments\C# Assignment  7\C# Assignment  7\obj\Debug\C# Assig.3F18DD2B.Up2Date
