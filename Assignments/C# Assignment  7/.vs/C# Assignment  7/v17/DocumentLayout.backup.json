@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{82C3F7BD-90CC-497D-943C-24432EB7FC81}|C# Assignment  7\\C# Assignment  7.csproj|solutionrelative:c# assignment  7\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82C3F7BD-90CC-497D-943C-24432EB7FC81}|C# Assignment  7\\C# Assignment  7.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment  7\\c# assignment  7\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82C3F7BD-90CC-497D-943C-24432EB7FC81}|C# Assignment  7\\C# Assignment  7.csproj|solutionrelative:c# assignment  7\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E8CCB82-3C33-462E-BE0B-DA86CEB30C07}|TicketCalculator\\TicketCalculator.csproj|C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\ticketcalculator\\concessioncalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8CCB82-3C33-462E-BE0B-DA86CEB30C07}|TicketCalculator\\TicketCalculator.csproj|solutionrelative:ticketcalculator\\concessioncalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E8CCB82-3C33-462E-BE0B-DA86CEB30C07}|TicketCalculator\\TicketCalculator.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\c# assignment  7\\ticketcalculator\\concessioncalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E8CCB82-3C33-462E-BE0B-DA86CEB30C07}|TicketCalculator\\TicketCalculator.csproj|solutionrelative:ticketcalculator\\concessioncalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82C3F7BD-90CC-497D-943C-24432EB7FC81}|C# Assignment  7\\C# Assignment  7.csproj|C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\c# assignment  7\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82C3F7BD-90CC-497D-943C-24432EB7FC81}|C# Assignment  7\\C# Assignment  7.csproj|solutionrelative:c# assignment  7\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82C3F7BD-90CC-497D-943C-24432EB7FC81}|C# Assignment  7\\C# Assignment  7.csproj|C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\c# assignment  7\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ConcessionCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\TicketCalculator\\ConcessionCalculator.cs",
-              "RelativeDocumentMoniker": "TicketCalculator\\ConcessionCalculator.cs",
-              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\TicketCalculator\\ConcessionCalculator.cs",
-              "RelativeToolTip": "TicketCalculator\\ConcessionCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T15:12:25.427Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -53,7 +40,7 @@
               "RelativeDocumentMoniker": "C# Assignment  7\\program4.cs",
               "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\C# Assignment  7\\program4.cs",
               "RelativeToolTip": "C# Assignment  7\\program4.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvxAAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-11T14:46:36.432Z",
               "EditorCaption": ""
@@ -61,6 +48,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ConcessionCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\TicketCalculator\\ConcessionCalculator.cs",
+              "RelativeDocumentMoniker": "TicketCalculator\\ConcessionCalculator.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\TicketCalculator\\ConcessionCalculator.cs",
+              "RelativeToolTip": "TicketCalculator\\ConcessionCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T15:12:25.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "program3.cs",
               "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\C# Assignment  7\\C# Assignment  7\\program3.cs",
               "RelativeDocumentMoniker": "C# Assignment  7\\program3.cs",
@@ -68,8 +68,7 @@
               "RelativeToolTip": "C# Assignment  7\\program3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T14:06:59.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T14:06:59.873Z"
             },
             {
               "$type": "Document",

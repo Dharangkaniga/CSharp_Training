@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{AFF551CA-6A49-4B21-B0F4-54C40EABA241}|Code Challenge -2\\Code Challenge -2.csproj|solutionrelative:code challenge -2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFF551CA-6A49-4B21-B0F4-54C40EABA241}|Code Challenge -2\\Code Challenge -2.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\code challenge -2\\code challenge -2\\calcuations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFF551CA-6A49-4B21-B0F4-54C40EABA241}|Code Challenge -2\\Code Challenge -2.csproj|solutionrelative:code challenge -2\\calcuations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFF551CA-6A49-4B21-B0F4-54C40EABA241}|Code Challenge -2\\Code Challenge -2.csproj|C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -2\\code challenge -2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF551CA-6A49-4B21-B0F4-54C40EABA241}|Code Challenge -2\\Code Challenge -2.csproj|solutionrelative:code challenge -2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFF551CA-6A49-4B21-B0F4-54C40EABA241}|Code Challenge -2\\Code Challenge -2.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\code challenge -2\\code challenge -2\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFF551CA-6A49-4B21-B0F4-54C40EABA241}|Code Challenge -2\\Code Challenge -2.csproj|C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -2\\code challenge -2\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFF551CA-6A49-4B21-B0F4-54C40EABA241}|Code Challenge -2\\Code Challenge -2.csproj|solutionrelative:code challenge -2\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFF551CA-6A49-4B21-B0F4-54C40EABA241}|Code Challenge -2\\Code Challenge -2.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\code challenge -2\\code challenge -2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFF551CA-6A49-4B21-B0F4-54C40EABA241}|Code Challenge -2\\Code Challenge -2.csproj|solutionrelative:code challenge -2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFF551CA-6A49-4B21-B0F4-54C40EABA241}|Code Challenge -2\\Code Challenge -2.csproj|C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -2\\code challenge -2\\calcuations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF551CA-6A49-4B21-B0F4-54C40EABA241}|Code Challenge -2\\Code Challenge -2.csproj|solutionrelative:code challenge -2\\calcuations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,20 +36,20 @@
               "RelativeDocumentMoniker": "Code Challenge -2\\Student.cs",
               "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -2\\Code Challenge -2\\Student.cs",
               "RelativeToolTip": "Code Challenge -2\\Student.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAswDgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAA7wCUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T05:39:02.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Calcuations.cs",
               "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -2\\Code Challenge -2\\Calcuations.cs",
               "RelativeDocumentMoniker": "Code Challenge -2\\Calcuations.cs",
               "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -2\\Code Challenge -2\\Calcuations.cs",
               "RelativeToolTip": "Code Challenge -2\\Calcuations.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAA5wA0AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T05:05:58.651Z",
               "EditorCaption": ""
@@ -62,20 +62,20 @@
               "RelativeDocumentMoniker": "Code Challenge -2\\ExceptionHandling.cs",
               "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -2\\Code Challenge -2\\ExceptionHandling.cs",
               "RelativeToolTip": "Code Challenge -2\\ExceptionHandling.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T04:50:28.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -2\\Code Challenge -2\\Program.cs",
               "RelativeDocumentMoniker": "Code Challenge -2\\Program.cs",
               "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -2\\Code Challenge -2\\Program.cs",
               "RelativeToolTip": "Code Challenge -2\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwAwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T04:18:11.608Z",
               "EditorCaption": ""
