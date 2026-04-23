@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code Challenge -4", "Code Challenge -4\Code Challenge -4.csproj", "{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance", "Distance\Distance.csproj", "{14ECC055-281E-4FF9-8264-EB4154C7D6FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14ECC055-281E-4FF9-8264-EB4154C7D6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14ECC055-281E-4FF9-8264-EB4154C7D6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14ECC055-281E-4FF9-8264-EB4154C7D6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14ECC055-281E-4FF9-8264-EB4154C7D6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2667D61-AE6E-4262-B261-63227DEC9C70}
+	EndGlobalSection
+EndGlobal

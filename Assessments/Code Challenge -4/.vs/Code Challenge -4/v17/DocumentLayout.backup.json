@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}|Code Challenge -4\\Code Challenge -4.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\code challenge -4\\code challenge -4\\code 2\\inputfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}|Code Challenge -4\\Code Challenge -4.csproj|solutionrelative:code challenge -4\\code 2\\inputfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}|Code Challenge -4\\Code Challenge -4.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\code challenge -4\\code challenge -4\\code 2\\chartreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}|Code Challenge -4\\Code Challenge -4.csproj|solutionrelative:code challenge -4\\code 2\\chartreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}|Code Challenge -4\\Code Challenge -4.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\code challenge -4\\code challenge -4\\code 2\\tabularreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}|Code Challenge -4\\Code Challenge -4.csproj|solutionrelative:code challenge -4\\code 2\\tabularreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}|Code Challenge -4\\Code Challenge -4.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\code challenge -4\\code challenge -4\\code 2\\summaryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}|Code Challenge -4\\Code Challenge -4.csproj|solutionrelative:code challenge -4\\code 2\\summaryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}|Code Challenge -4\\Code Challenge -4.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\code challenge -4\\code challenge -4\\code 2\\ireportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}|Code Challenge -4\\Code Challenge -4.csproj|solutionrelative:code challenge -4\\code 2\\ireportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}|Code Challenge -4\\Code Challenge -4.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\code challenge -4\\code challenge -4\\code 2\\reportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}|Code Challenge -4\\Code Challenge -4.csproj|solutionrelative:code challenge -4\\code 2\\reportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14ECC055-281E-4FF9-8264-EB4154C7D6FF}|Distance\\Distance.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\code challenge -4\\distance\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14ECC055-281E-4FF9-8264-EB4154C7D6FF}|Distance\\Distance.csproj|solutionrelative:distance\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}|Code Challenge -4\\Code Challenge -4.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\code challenge -4\\code challenge -4\\program 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}|Code Challenge -4\\Code Challenge -4.csproj|solutionrelative:code challenge -4\\program 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}|Code Challenge -4\\Code Challenge -4.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\code challenge -4\\code challenge -4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F750B6-1D68-417F-A9D4-F13B7CCF5B37}|Code Challenge -4\\Code Challenge -4.csproj|solutionrelative:code challenge -4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputFactory.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -4\\Code Challenge -4\\Code 2\\InputFactory.cs",
+              "RelativeDocumentMoniker": "Code Challenge -4\\Code 2\\InputFactory.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -4\\Code Challenge -4\\Code 2\\InputFactory.cs",
+              "RelativeToolTip": "Code Challenge -4\\Code 2\\InputFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:50:46.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TabularReport.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -4\\Code Challenge -4\\Code 2\\TabularReport.cs",
+              "RelativeDocumentMoniker": "Code Challenge -4\\Code 2\\TabularReport.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -4\\Code Challenge -4\\Code 2\\TabularReport.cs",
+              "RelativeToolTip": "Code Challenge -4\\Code 2\\TabularReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:42:43.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChartReport.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -4\\Code Challenge -4\\Code 2\\ChartReport.cs",
+              "RelativeDocumentMoniker": "Code Challenge -4\\Code 2\\ChartReport.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -4\\Code Challenge -4\\Code 2\\ChartReport.cs",
+              "RelativeToolTip": "Code Challenge -4\\Code 2\\ChartReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:40:16.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -4\\Distance\\Class1.cs",
+              "RelativeDocumentMoniker": "Distance\\Class1.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -4\\Distance\\Class1.cs",
+              "RelativeToolTip": "Distance\\Class1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:06:25.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -4\\Code Challenge -4\\Code 2\\IReportGenerator.cs",
+              "RelativeDocumentMoniker": "Code Challenge -4\\Code 2\\IReportGenerator.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -4\\Code Challenge -4\\Code 2\\IReportGenerator.cs",
+              "RelativeToolTip": "Code Challenge -4\\Code 2\\IReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:39:24.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program 2.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -4\\Code Challenge -4\\Program 2.cs",
+              "RelativeDocumentMoniker": "Code Challenge -4\\Program 2.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -4\\Code Challenge -4\\Program 2.cs",
+              "RelativeToolTip": "Code Challenge -4\\Program 2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:00:53.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SummaryReport.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -4\\Code Challenge -4\\Code 2\\SummaryReport.cs",
+              "RelativeDocumentMoniker": "Code Challenge -4\\Code 2\\SummaryReport.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -4\\Code Challenge -4\\Code 2\\SummaryReport.cs",
+              "RelativeToolTip": "Code Challenge -4\\Code 2\\SummaryReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:44:30.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportFactory.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -4\\Code Challenge -4\\Code 2\\ReportFactory.cs",
+              "RelativeDocumentMoniker": "Code Challenge -4\\Code 2\\ReportFactory.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -4\\Code Challenge -4\\Code 2\\ReportFactory.cs",
+              "RelativeToolTip": "Code Challenge -4\\Code 2\\ReportFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:47:28.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -4\\Code Challenge -4\\Program.cs",
+              "RelativeDocumentMoniker": "Code Challenge -4\\Program.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Code Challenge -4\\Code Challenge -4\\Program.cs",
+              "RelativeToolTip": "Code Challenge -4\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwDYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:22:08.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

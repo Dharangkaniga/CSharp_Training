@@ -1,0 +1,6 @@
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge -4\Distance\bin\Debug\Distance.dll
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge -4\Distance\bin\Debug\Distance.pdb
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge -4\Distance\obj\Debug\Distance.csproj.AssemblyReference.cache
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge -4\Distance\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge -4\Distance\obj\Debug\Distance.dll
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge -4\Distance\obj\Debug\Distance.pdb

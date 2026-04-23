@@ -1,0 +1,11 @@
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge -4\Code Challenge -4\bin\Debug\Code Challenge -4.exe.config
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge -4\Code Challenge -4\bin\Debug\Code Challenge -4.exe
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge -4\Code Challenge -4\bin\Debug\Code Challenge -4.pdb
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge -4\Code Challenge -4\obj\Debug\Code Challenge -4.csproj.AssemblyReference.cache
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge -4\Code Challenge -4\obj\Debug\Code Challenge -4.csproj.CoreCompileInputs.cache
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge -4\Code Challenge -4\obj\Debug\Code Challenge -4.exe
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge -4\Code Challenge -4\obj\Debug\Code Challenge -4.pdb
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge -4\Code Challenge -4\obj\Debug\Code Challenge -4.exe.config
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge -4\Code Challenge -4\bin\Debug\Distance.dll
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge -4\Code Challenge -4\bin\Debug\Distance.pdb
+C:\Users\dharangkanigas\DotNet Training\Assessments\Code Challenge -4\Code Challenge -4\obj\Debug\Code Cha.3CEB7FEF.Up2Date
