@@ -1,0 +1,129 @@
+Write a program to find the Sum and the Average points scored by the teams in the IPL. Create a Class called CricketTeam that has a function called Pointscalculation(int no_of_matches) that takes no.of matches as input and accepts that many scores from the user. The function should then return the Count of Matches, Average and Sum of the scores.
+ 
+ 
+2. Write a program in C# Sharp to append some text to an existing file. If the file is not available, then create one in the same workspace.
+Hint: (Use the appropriate mode of operation. Use stream writer class)
+ 
+Events and Delegates
+ 
+ 
+Scenario: Mobile Phone – Ring Notification System
+You are simulating a mobile phone that can ring when someone calls. Different parts of the phone (like ringtone player, screen display, and vibration motor) need to react to the ring event.
+ 
+To model this, use delegates and events.
+ 
+🎯 Task:
+Implement the following in C#:
+ 
+1. MobilePhone class
+Has a delegate RingEventHandler and an event OnRing.
+ 
+Has a method ReceiveCall() which triggers the OnRing event.
+ 
+2. Subscriber classes (handlers):
+RingtonePlayer – prints: "Playing ringtone..."
+ 
+ScreenDisplay – prints: "Displaying caller information..."
+ 
+VibrationMotor – prints: "Phone is vibrating..."
+ 
+3. In the Main() method:
+Create an instance of MobilePhone.
+ 
+Subscribe all three components to the OnRing event.
+ 
+Invoke ReceiveCall() to simulate an incoming call.
+
+
+
+
+
+
+
+
+
+
+
+
+
+using System;
+
+class MobilePhone
+{
+    // Delegate
+    public delegate void RingEventHandler();
+
+    // Event
+    public event RingEventHandler OnRing;
+
+    // Method to trigger event
+    public void ReceiveCall()
+    {
+        Console.WriteLine("\nIncoming Call...");
+        
+        if (OnRing != null)
+        {
+            OnRing(); // trigger all subscribed methods
+        }
+    }
+}
+
+// Subscriber classes
+class RingtonePlayer
+{
+    public void PlayRingtone()
+    {
+        Console.WriteLine("Playing ringtone...");
+    }
+}
+
+class ScreenDisplay
+{
+    public void ShowCaller()
+    {
+        Console.WriteLine("Displaying caller information...");
+    }
+}
+
+class VibrationMotor
+{
+    public void Vibrate()
+    {
+        Console.WriteLine("Phone is vibrating...");
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        MobilePhone phone = new MobilePhone();
+
+        // Create subscriber objects
+        RingtonePlayer r = new RingtonePlayer();
+        ScreenDisplay s = new ScreenDisplay();
+        VibrationMotor v = new VibrationMotor();
+
+        // Subscribe to event
+        phone.OnRing += r.PlayRingtone;
+        phone.OnRing += s.ShowCaller;
+        phone.OnRing += v.Vibrate;
+
+        // User input
+        Console.Write("Enter 'call' to simulate incoming call: ");
+        string input = Console.ReadLine();
+
+        if (input.ToLower() == "call")
+        {
+            phone.ReceiveCall();
+        }
+        else
+        {
+            Console.WriteLine("No call received.");
+        }
+    }
+}
+
+
+
+
