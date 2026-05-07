@@ -78,7 +78,7 @@ and month(ehiredate)=month(getdate())
     begin transaction
 
     update emptable 
-    set esal=esal+(esal*15/100)
+    set esal=esal*0.15
     where empno=7499
 
     commit
@@ -102,13 +102,13 @@ and month(ehiredate)=month(getdate())
 
         --- a.  For Deptno 10 employees 15% of sal as bonus.
         if @deptno=10 
-            set @bonus=@sal*15/100
+            set @bonus=@sal*0.15
         --- b.  For Deptno 20 employees  20% of sal as bonus
         else if @deptno=20
-            set @bonus=@sal*20/100
+            set @bonus=@sal*0.20
         --- c   For Others employees 5%of sal as bonus
         else
-            set @bonus=@sal*5/100
+            set @bonus=@sal0.05
         return @bonus
     end
 
