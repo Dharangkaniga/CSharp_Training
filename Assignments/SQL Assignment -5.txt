@@ -1,0 +1,93 @@
+-- 1. Write a T-Sql based procedure to generate complete payslip of a given employee with respect to the following condition
+
+create or alter proc sp_payslip(@empno int)
+as
+begin
+
+    declare @ename varchar(30)
+    declare @sal decimal(10,2)
+
+    declare @hra decimal(10,2)
+    declare @da decimal(10,2)
+    declare @pf decimal(10,2)
+    declare @it decimal(10,2)
+
+    declare @gross decimal(10,2)
+    declare @deduction decimal(10,2)
+    declare @net decimal(10,2)
+
+
+    select @ename = ename,@sal = esal
+    from emptable
+    where empno = @empno
+
+
+    set @hra = @sal * 0.10
+    set @da = @sal * 0.20
+    set @pf = @sal * 0.08
+    set @it = @sal * 0.05
+
+    set @gross = @sal + @hra + @da
+    set @deduction = @pf + @it
+    set @net = @gross - @deduction
+
+
+    print 'Employee Name : ' + @ename
+    print 'Salary : ' + @sal
+
+    print 'HRA : ' + @hra
+    print 'DA : ' + @da
+    print 'PF : ' + @pf
+    print 'IT : ' + @it
+
+    print 'Gross Salary : ' + @gross
+    print 'Net Salary : ' + @net
+
+end
+
+exec sp_payslip 7777
+
+
+-- Create a trigger to restrict data manipulation on EMP table during General holidays. Display the error message like “Due to Independence day you cannot manipulate data” or "Due To Diwali", you cannot manipulate" etc
+
+
+--Holiday Table
+
+create table holidaytable
+(
+    holiday_date date,
+    holiday_name varchar(30)
+)
+
+
+insert into holidaytable values
+('2026-01-26','Republic Day'),
+('2026-08-15','Independence Day'),
+('2026-11-12','Diwali'),
+('2026-12-25','Christmas')
+
+
+create or alter trigger trg_holiday
+on emptable
+instead of insert, update, delete
+as
+begin
+
+    declare @hname varchar(30)
+
+    select @hname = holiday_name
+    from holidaytable
+    where holiday_date = cast(getdate() as date)
+
+    
+    if @hname is not null
+    begin
+        throw 50001, ('Error!!! Due To ' + @hname + ', you cannot manipulate data'), 1
+    end
+
+    else
+    begin
+        print 'Data Manipulation Allowed'
+    end
+
+end

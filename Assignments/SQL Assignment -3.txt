@@ -1,0 +1,116 @@
+-- 1. Retrieve a list of MANAGERS
+select * 
+from emptable
+where ejob = 'manager';
+
+
+-- 2. Find names and salaries of employees earning more than 1000 per month
+select ename, esal
+from emptable
+where esal > 1000;
+
+
+-- 3. Display names and salaries of all employees except JAMES
+select ename, esal
+from emptable
+where ename <> 'james';
+
+
+-- 4. Find details of employees whose names begin with ‘S’
+select *
+from emptable
+where ename like 's%';
+
+
+-- 5. Find names of employees having ‘A’ anywhere in their name
+select ename
+from emptable
+where ename like '%a%'
+
+
+-- 6. Find names of employees having ‘L’ as third character
+select ename
+from emptable
+where ename like '__l%'
+
+
+-- 7. Compute daily salary of JONES
+select ename, esal/30 as daily_salary
+from emptable
+where ename = 'jones'
+
+
+-- 8. Calculate total monthly salary of all employees
+select sum(esal) as total_monthly_salary
+from emptable
+
+
+-- 9. Print average annual salary
+select avg(esal*12) as average_annual_salary
+from emptable
+
+
+-- 10. Select name, job, salary, department number of employees except SALESMAN from department 30
+select ename, ejob, esal, edeptno
+from emptable
+where ejob <> 'salesman'
+and edeptno = 30
+
+
+-- 11. List unique departments of EMP table
+select distinct edeptno
+from emptable
+
+
+-- 12. List name and salary of employees earning more than 1500 and in department 10 or 30
+select ename as Employee,
+       esal as "Monthly Salary"
+from emptable
+where esal > 1500
+and edeptno in (10,30)
+
+
+-- 13. Display name, job, salary of employees whose job is MANAGER or ANALYST and salary not equal to 1000,3000,5000
+select ename, ejob, esal
+from emptable
+where ejob in ('manager','analyst')
+and esal not in (1000,3000,5000)
+
+
+-- 14. Display name, salary and commission where commission is greater than salary increased by 10%
+select ename, esal, ecomm
+from emptable
+where ecomm > esal * 1.10
+
+
+-- 15. Display names of employees who have two Ls in their name and are in department 30 or manager is 7782
+select ename
+from emptable
+where ename like '%l%l%'
+and (edeptno = 30 or emgr_id = 7782)
+
+
+-- 16. Display names of employees with experience over 30 years and under 40 years, and count total employees
+select ename,
+       timestampdiff(year, ehiredate, curdate()) as experience
+from emptable
+where timestampdiff(year, ehiredate, curdate()) > 30
+and timestampdiff(year, ehiredate, curdate()) < 40;
+
+select count(*) as total_employees
+from emptable
+
+
+-- 17. Retrieve department names in ascending order and employees in descending order
+select d.dname, e.ename
+from depttable d
+join emptable e
+on d.deptno = e.edeptno
+order by d.dname asc, e.ename desc
+
+
+-- 18. Find experience of MILLER
+select ename,
+       timestampdiff(year, ehiredate, curdate()) as experience
+from emptable
+where ename = 'miller'

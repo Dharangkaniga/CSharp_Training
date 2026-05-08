@@ -1,0 +1,90 @@
+-- 1. T-SQL Program to find factorial of a given number
+
+declare @num int = 5
+declare @fact int = 1
+declare @i int = 1
+
+while @i <= @num
+begin
+    set @fact = @fact * @i
+    set @i = @i + 1
+end
+
+print @fact
+
+-- 2. Create Stored Procedure for Multiplication Table
+
+create or alter proc sp_multiplicationtable(@num int, @limit int)
+as
+begin
+    declare @i int = 1
+
+    while @i <= @limit
+    begin
+        print @num * @i
+        set @i = @i + 1
+    end
+end
+exec sp_multiplicationtable 10,10
+
+-- 3.Student Table
+
+create table student
+(
+    sid int primary key,
+    sname varchar(30)
+)
+
+insert into student values
+(1,'Meha'),
+(2,'Harini'),
+(3,'Gayathri'),
+(4,'Kaniga'),
+(5,'Malar'),
+(6,'Sanjana')
+
+
+-- Marks Table
+
+create table marks
+(
+    mid int primary key,
+    sid int,
+    score int,
+    foreign key(sid) references student(sid)
+)
+
+insert into marks values
+(1,1,23),
+(2,6,95),
+(3,4,98),
+(4,2,17),
+(5,3,53),
+(6,5,13)
+
+-- Create User Defined Function for Student Status
+
+create or alter function fn_studentstatus(@score int)
+returns varchar(10)
+as
+begin
+    declare @status varchar(10)
+
+    if @score >= 50
+        set @status = 'Pass'
+    else
+        set @status = 'Fail'
+
+    return @status
+end
+
+-- Display Student Details with Status
+
+select 
+    s.sid,
+    s.sname,
+    m.score,
+    dbo.fn_studentstatus(m.score) as status
+from student s
+join marks m
+on s.sid = m.sid
