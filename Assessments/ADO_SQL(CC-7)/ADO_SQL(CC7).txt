@@ -1,0 +1,56 @@
+create database Employeesmanagements
+use Employeesmanagements
+
+create table EmployeeDetail(
+Empno int primary key,
+EmpName varchar(30) not null,
+EmpSal decimal(10,2) check (EmpSal>=25000),
+EmpType char(1) check(EmpType in('F','P'))
+)
+
+create or alter procedure InsertionDetail(@EmpName varchar(30),@EmpSal decimal(10,2),@EmpType char(1))
+as
+begin
+	declare @Empno int
+
+	------To Generate empno inside the procedure-----
+	select @Empno=isnull(max(Empno),100)+1 from EmployeeDetail
+
+	------To insert some records in Employee_Details-----
+	insert into EmployeeDetail(Empno,EmpName,EmpSal,EmpType)
+	values(@Empno,@EmpName,@EmpSal,@EmpType)
+
+	print 'Inserted Successfully'
+end
+
+exec InsertionDetail 
+@EmpName='Meha',
+@EmpSal=35000,
+@EmpType='F'
+
+SELECT * FROM EmployeeDetail;
+
+-----2 To update salary
+create or alter procedure updateempsalary
+(
+    @empid int,
+    @updatedsalary decimal(10,2) output
+)
+as
+begin
+    update employeedetail
+    set empsal = empsal + 100
+    where empno = @empid;
+
+    select @updatedsalary = empsal
+    from employeedetail
+    where empno = @empid;
+end;
+
+declare @sal decimal(10,2)
+
+exec UpdateEmpSalary 
+@EmpId = 101,
+@UpdatedSalary = @sal output;
+
+select @sal as UpdatedSalary;
