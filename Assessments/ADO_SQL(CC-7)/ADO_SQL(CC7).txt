@@ -33,24 +33,24 @@ SELECT * FROM EmployeeDetail;
 -----2 To update salary
 create or alter procedure updateempsalary
 (
-    @empid int,
+    @empno int,
     @updatedsalary decimal(10,2) output
 )
 as
 begin
     update employeedetail
     set empsal = empsal + 100
-    where empno = @empid;
+    where empno = @empno;
 
     select @updatedsalary = empsal
     from employeedetail
-    where empno = @empid;
+    where empno = @empno;
 end;
 
 declare @sal decimal(10,2)
 
 exec UpdateEmpSalary 
-@EmpId = 101,
+@Empno = 101,
 @UpdatedSalary = @sal output;
 
 select @sal as UpdatedSalary;

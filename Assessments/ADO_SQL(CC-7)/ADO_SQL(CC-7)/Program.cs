@@ -45,26 +45,31 @@ namespace ADO_SQL_CC_7_
             try
             {
                 conn = getConnection();
-                conn.Open();
 
                 Console.Write("Enter Employee ID: ");
                 int id = Convert.ToInt32(Console.ReadLine());
 
-                cmd = new SqlCommand("updatsalary", conn);
-                cmd.CommandType = CommandType.StoredProcedure;
+                cmd = new SqlCommand("updateempsalary", conn);
+                cmd.CommandType = CommandType.StoredProcedure;              
+                cmd.Parameters.AddWithValue("@empno", id);            
+                SqlParameter outputParam = new SqlParameter();
+                outputParam.ParameterName = "@updatedsalary";
+                outputParam.SqlDbType = SqlDbType.Decimal;
+                outputParam.Precision = 10;
+                outputParam.Scale = 2;
+                outputParam.Direction = ParameterDirection.Output;
 
-                cmd.Parameters.AddWithValue("@empid", id);
+                cmd.Parameters.Add(outputParam);
 
-                decimal updatedSalary = Convert.ToDecimal(cmd.ExecuteScalar());
-
-                Console.WriteLine("Updated Salary: " + updatedSalary);
+                cmd.ExecuteNonQuery();
+                Console.WriteLine("Updated Salary: " + outputParam.Value);
             }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
             }
-            
         }
+
 
         static void DisplayDetails()
         {

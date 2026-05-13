@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BDD09E4F-AE2E-45BB-AF57-28068ABCE5AE}|ADO_SQL(CC-7)\\ADO_SQL(CC-7).csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\ado_sql(cc-7)\\ado_sql(cc-7)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD09E4F-AE2E-45BB-AF57-28068ABCE5AE}|ADO_SQL(CC-7)\\ADO_SQL(CC-7).csproj|solutionrelative:ado_sql(cc-7)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDD09E4F-AE2E-45BB-AF57-28068ABCE5AE}|ADO_SQL(CC-7)\\ADO_SQL(CC-7).csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\ado_sql(cc-7)\\ado_sql(cc-7)\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDD09E4F-AE2E-45BB-AF57-28068ABCE5AE}|ADO_SQL(CC-7)\\ADO_SQL(CC-7).csproj|solutionrelative:ado_sql(cc-7)\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Q2.cs",
-              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\ADO_SQL(CC-7)\\ADO_SQL(CC-7)\\Q2.cs",
-              "RelativeDocumentMoniker": "ADO_SQL(CC-7)\\Q2.cs",
-              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\ADO_SQL(CC-7)\\ADO_SQL(CC-7)\\Q2.cs",
-              "RelativeToolTip": "ADO_SQL(CC-7)\\Q2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T05:53:04.444Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,7 +24,7 @@
               "RelativeDocumentMoniker": "ADO_SQL(CC-7)\\Program.cs",
               "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\ADO_SQL(CC-7)\\ADO_SQL(CC-7)\\Program.cs",
               "RelativeToolTip": "ADO_SQL(CC-7)\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAkwA0AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwGYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T04:47:39.856Z",
               "EditorCaption": ""
