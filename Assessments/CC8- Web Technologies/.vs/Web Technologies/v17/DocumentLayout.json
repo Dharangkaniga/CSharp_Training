@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Web Technologies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50BE3883-1065-4EE2-9759-8084DBF46DEC}|Web Technologies\\Web Technologies.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\web technologies\\web technologies\\q1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50BE3883-1065-4EE2-9759-8084DBF46DEC}|Web Technologies\\Web Technologies.csproj|solutionrelative:web technologies\\q1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BE3883-1065-4EE2-9759-8084DBF46DEC}|Web Technologies\\Web Technologies.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\web technologies\\web technologies\\q3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50BE3883-1065-4EE2-9759-8084DBF46DEC}|Web Technologies\\Web Technologies.csproj|solutionrelative:web technologies\\q3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BE3883-1065-4EE2-9759-8084DBF46DEC}|Web Technologies\\Web Technologies.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\web technologies\\web technologies\\q4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50BE3883-1065-4EE2-9759-8084DBF46DEC}|Web Technologies\\Web Technologies.csproj|solutionrelative:web technologies\\q4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BE3883-1065-4EE2-9759-8084DBF46DEC}|Web Technologies\\Web Technologies.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\web technologies\\web technologies\\q5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50BE3883-1065-4EE2-9759-8084DBF46DEC}|Web Technologies\\Web Technologies.csproj|solutionrelative:web technologies\\q5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BE3883-1065-4EE2-9759-8084DBF46DEC}|Web Technologies\\Web Technologies.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\web technologies\\web technologies\\q6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50BE3883-1065-4EE2-9759-8084DBF46DEC}|Web Technologies\\Web Technologies.csproj|solutionrelative:web technologies\\q6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BE3883-1065-4EE2-9759-8084DBF46DEC}|Web Technologies\\Web Technologies.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\web technologies\\web technologies\\q7.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50BE3883-1065-4EE2-9759-8084DBF46DEC}|Web Technologies\\Web Technologies.csproj|solutionrelative:web technologies\\q7.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BE3883-1065-4EE2-9759-8084DBF46DEC}|Web Technologies\\Web Technologies.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\web technologies\\web technologies\\q8.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50BE3883-1065-4EE2-9759-8084DBF46DEC}|Web Technologies\\Web Technologies.csproj|solutionrelative:web technologies\\q8.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BE3883-1065-4EE2-9759-8084DBF46DEC}|Web Technologies\\Web Technologies.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\web technologies\\web technologies\\q2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50BE3883-1065-4EE2-9759-8084DBF46DEC}|Web Technologies\\Web Technologies.csproj|solutionrelative:web technologies\\q2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BE3883-1065-4EE2-9759-8084DBF46DEC}|Web Technologies\\Web Technologies.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\web technologies\\web technologies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BE3883-1065-4EE2-9759-8084DBF46DEC}|Web Technologies\\Web Technologies.csproj|solutionrelative:web technologies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Q2.html",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Web Technologies\\Web Technologies\\Q2.html",
+              "RelativeDocumentMoniker": "Web Technologies\\Q2.html",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Web Technologies\\Web Technologies\\Q2.html",
+              "RelativeToolTip": "Web Technologies\\Q2.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T07:53:35.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Q8.html",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Web Technologies\\Web Technologies\\Q8.html",
+              "RelativeDocumentMoniker": "Web Technologies\\Q8.html",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Web Technologies\\Web Technologies\\Q8.html",
+              "RelativeToolTip": "Web Technologies\\Q8.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T07:29:38.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Q7.html",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Web Technologies\\Web Technologies\\Q7.html",
+              "RelativeDocumentMoniker": "Web Technologies\\Q7.html",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Web Technologies\\Web Technologies\\Q7.html",
+              "RelativeToolTip": "Web Technologies\\Q7.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T07:21:12.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Q6.html",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Web Technologies\\Web Technologies\\Q6.html",
+              "RelativeDocumentMoniker": "Web Technologies\\Q6.html",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Web Technologies\\Web Technologies\\Q6.html",
+              "RelativeToolTip": "Web Technologies\\Q6.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T07:20:56.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Q5.html",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Web Technologies\\Web Technologies\\Q5.html",
+              "RelativeDocumentMoniker": "Web Technologies\\Q5.html",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Web Technologies\\Web Technologies\\Q5.html",
+              "RelativeToolTip": "Web Technologies\\Q5.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T07:11:49.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Q4.html",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Web Technologies\\Web Technologies\\Q4.html",
+              "RelativeDocumentMoniker": "Web Technologies\\Q4.html",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Web Technologies\\Web Technologies\\Q4.html",
+              "RelativeToolTip": "Web Technologies\\Q4.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T07:06:03.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Q3.html",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Web Technologies\\Web Technologies\\Q3.html",
+              "RelativeDocumentMoniker": "Web Technologies\\Q3.html",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Web Technologies\\Web Technologies\\Q3.html",
+              "RelativeToolTip": "Web Technologies\\Q3.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T07:01:59.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q1.html",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Web Technologies\\Web Technologies\\Q1.html",
+              "RelativeDocumentMoniker": "Web Technologies\\Q1.html",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Web Technologies\\Web Technologies\\Q1.html",
+              "RelativeToolTip": "Web Technologies\\Q1.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T06:44:13.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Web Technologies\\Web Technologies\\Program.cs",
+              "RelativeDocumentMoniker": "Web Technologies\\Program.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Web Technologies\\Web Technologies\\Program.cs",
+              "RelativeToolTip": "Web Technologies\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T06:42:53.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
