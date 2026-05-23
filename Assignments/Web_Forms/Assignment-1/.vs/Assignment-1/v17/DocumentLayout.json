@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\Web_Forms\\Assignment-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{336DECBF-EF08-4E60-878C-E4AFBDA0E85C}|Assignment-1\\Assignment-1.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\web_forms\\assignment-1\\assignment-1\\flowers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{336DECBF-EF08-4E60-878C-E4AFBDA0E85C}|Assignment-1\\Assignment-1.csproj|solutionrelative:assignment-1\\flowers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336DECBF-EF08-4E60-878C-E4AFBDA0E85C}|Assignment-1\\Assignment-1.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\web_forms\\assignment-1\\assignment-1\\flowers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336DECBF-EF08-4E60-878C-E4AFBDA0E85C}|Assignment-1\\Assignment-1.csproj|solutionrelative:assignment-1\\flowers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336DECBF-EF08-4E60-878C-E4AFBDA0E85C}|Assignment-1\\Assignment-1.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\web_forms\\assignment-1\\assignment-1\\family_details_validation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{336DECBF-EF08-4E60-878C-E4AFBDA0E85C}|Assignment-1\\Assignment-1.csproj|solutionrelative:assignment-1\\family_details_validation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336DECBF-EF08-4E60-878C-E4AFBDA0E85C}|Assignment-1\\Assignment-1.csproj|c:\\users\\dharangkanigas\\dotnet training\\assignments\\web_forms\\assignment-1\\assignment-1\\family_details_validation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336DECBF-EF08-4E60-878C-E4AFBDA0E85C}|Assignment-1\\Assignment-1.csproj|solutionrelative:assignment-1\\family_details_validation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Flowers.aspx",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\Web_Forms\\Assignment-1\\Assignment-1\\Flowers.aspx",
+              "RelativeDocumentMoniker": "Assignment-1\\Flowers.aspx",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\Web_Forms\\Assignment-1\\Assignment-1\\Flowers.aspx",
+              "RelativeToolTip": "Assignment-1\\Flowers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-23T15:26:31.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Flowers.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\Web_Forms\\Assignment-1\\Assignment-1\\Flowers.aspx.cs",
+              "RelativeDocumentMoniker": "Assignment-1\\Flowers.aspx.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\Web_Forms\\Assignment-1\\Assignment-1\\Flowers.aspx.cs",
+              "RelativeToolTip": "Assignment-1\\Flowers.aspx.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:33:03.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Family_Details_Validation.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\Web_Forms\\Assignment-1\\Assignment-1\\Family_Details_Validation.aspx.cs",
+              "RelativeDocumentMoniker": "Assignment-1\\Family_Details_Validation.aspx.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\Web_Forms\\Assignment-1\\Assignment-1\\Family_Details_Validation.aspx.cs",
+              "RelativeToolTip": "Assignment-1\\Family_Details_Validation.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T14:58:53.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Family_Details_Validation.aspx",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\Web_Forms\\Assignment-1\\Assignment-1\\Family_Details_Validation.aspx",
+              "RelativeDocumentMoniker": "Assignment-1\\Family_Details_Validation.aspx",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assignments\\Web_Forms\\Assignment-1\\Assignment-1\\Family_Details_Validation.aspx",
+              "RelativeToolTip": "Assignment-1\\Family_Details_Validation.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-23T14:55:40.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
