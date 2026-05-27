@@ -44,8 +44,9 @@ from book b
 join reviews r 
 on b.id=r.book_id
 
---Display the reviewer name who reviewed more than one book.
+---Display the reviewer name who reviewed more than one book.
 select reviewer_name from reviews where rating>1
+
 ---Display the Name for the customer from above customer table who live in same address which has character o anywhere in address
 create table Customer
 (

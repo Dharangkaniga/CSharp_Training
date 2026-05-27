@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true"
+CodeBehind="Site.master.cs"
+Inherits="FoodOrderManagement.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Food Order Management</title>
+</head>
+
+<body>
+
+<form id="form1" runat="server">
+
+<div>
+
+    
+    <h1>Food Order Management System</h1>
+
+    <hr />
+
+    
+    <asp:HyperLink ID="lnk1" runat="server"
+        NavigateUrl="~/MenuList.aspx">Menu Items</asp:HyperLink>
+
+    |
+
+    <asp:HyperLink ID="lnk2" runat="server"
+        NavigateUrl="~/AddEditMenu.aspx">Add Menu</asp:HyperLink>
+
+    |
+
+    <asp:HyperLink ID="lnk3" runat="server"
+        NavigateUrl="~/OrderStatus.aspx">Order Stats</asp:HyperLink>
+
+    |
+
+    <asp:HyperLink ID="lnk4" runat="server"
+        NavigateUrl="~/Logout.aspx">Logout</asp:HyperLink>
+
+    <hr />
+
+    
+    <asp:ContentPlaceHolder
+        ID="ContentPlaceHolder1"
+        runat="server">
+    </asp:ContentPlaceHolder>
+
+    <hr />
+
+    
+    <footer>
+        Copyright 2026
+    </footer>
+
+</div>
+
+</form>
+
+</body>
+</html>
