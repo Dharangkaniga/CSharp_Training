@@ -1,0 +1,8 @@
+C:\Users\dharangkanigas\DotNet Training\TrainManagementSystem\bin\Debug\TrainManagementSystem.exe.config
+C:\Users\dharangkanigas\DotNet Training\TrainManagementSystem\bin\Debug\TrainManagementSystem.exe
+C:\Users\dharangkanigas\DotNet Training\TrainManagementSystem\bin\Debug\TrainManagementSystem.pdb
+C:\Users\dharangkanigas\DotNet Training\TrainManagementSystem\obj\Debug\TrainManagementSystem.csproj.AssemblyReference.cache
+C:\Users\dharangkanigas\DotNet Training\TrainManagementSystem\obj\Debug\TrainManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\dharangkanigas\DotNet Training\TrainManagementSystem\obj\Debug\TrainManagementSystem.exe
+C:\Users\dharangkanigas\DotNet Training\TrainManagementSystem\obj\Debug\TrainManagementSystem.pdb
+C:\Users\dharangkanigas\DotNet Training\TrainManagementSystem\obj\Debug\TrainManagementSystem.exe.config
