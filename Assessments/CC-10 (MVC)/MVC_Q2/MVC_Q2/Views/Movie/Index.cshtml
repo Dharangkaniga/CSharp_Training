@@ -1,0 +1,29 @@
+﻿@model IEnumerable<MVC_Q2.Models.Movie>
+
+<h2>Movies List</h2>
+
+<a href="/Movie/Create">Create New</a>
+
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Movie Name</th>
+        <th>Director</th>
+        <th>Date</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Mid</td>
+            <td>@item.MovieName</td>
+            <td>@item.DirectorName</td>
+            <td>@item.DateOfRelease</td>
+            <td>
+                <a href="/Movie/Edit/@item.Mid">Edit</a> |
+                <a href="/Movie/Delete/@item.Mid">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
