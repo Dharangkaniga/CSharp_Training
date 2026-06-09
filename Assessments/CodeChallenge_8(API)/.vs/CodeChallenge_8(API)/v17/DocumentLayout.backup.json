@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\CodeChallenge_8(API)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC2ACD3-18A7-4639-9678-7E1B0FE7F89B}|CodeChallenge_8(API)\\CodeChallenge_8(API).csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\codechallenge_8(api)\\codechallenge_8(api)\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC2ACD3-18A7-4639-9678-7E1B0FE7F89B}|CodeChallenge_8(API)\\CodeChallenge_8(API).csproj|solutionrelative:codechallenge_8(api)\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC2ACD3-18A7-4639-9678-7E1B0FE7F89B}|CodeChallenge_8(API)\\CodeChallenge_8(API).csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\codechallenge_8(api)\\codechallenge_8(api)\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC2ACD3-18A7-4639-9678-7E1B0FE7F89B}|CodeChallenge_8(API)\\CodeChallenge_8(API).csproj|solutionrelative:codechallenge_8(api)\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC2ACD3-18A7-4639-9678-7E1B0FE7F89B}|CodeChallenge_8(API)\\CodeChallenge_8(API).csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\codechallenge_8(api)\\codechallenge_8(api)\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC2ACD3-18A7-4639-9678-7E1B0FE7F89B}|CodeChallenge_8(API)\\CodeChallenge_8(API).csproj|solutionrelative:codechallenge_8(api)\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\CodeChallenge_8(API)\\CodeChallenge_8(API)\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "CodeChallenge_8(API)\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\CodeChallenge_8(API)\\CodeChallenge_8(API)\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "CodeChallenge_8(API)\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:38:36.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\CodeChallenge_8(API)\\CodeChallenge_8(API)\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "CodeChallenge_8(API)\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\CodeChallenge_8(API)\\CodeChallenge_8(API)\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "CodeChallenge_8(API)\\Controllers\\CountryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:30:15.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\CodeChallenge_8(API)\\CodeChallenge_8(API)\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "CodeChallenge_8(API)\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\CodeChallenge_8(API)\\CodeChallenge_8(API)\\Models\\Country.cs",
+              "RelativeToolTip": "CodeChallenge_8(API)\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:29:24.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

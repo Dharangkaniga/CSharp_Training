@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Q2_(API)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA677447-2FE0-4864-89FF-DB88C2B0D0F8}|NorthwindMVC\\NorthwindMVC.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\q2_(api)\\northwindmvc\\views\\ordersmvc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA677447-2FE0-4864-89FF-DB88C2B0D0F8}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\views\\ordersmvc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA677447-2FE0-4864-89FF-DB88C2B0D0F8}|NorthwindMVC\\NorthwindMVC.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\q2_(api)\\northwindmvc\\controllers\\ordersmvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA677447-2FE0-4864-89FF-DB88C2B0D0F8}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\controllers\\ordersmvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427BC2CB-7FCB-445C-9647-914791D2765C}|Q2_(API)\\Q2_(API).csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\q2_(api)\\q2_(api)\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427BC2CB-7FCB-445C-9647-914791D2765C}|Q2_(API)\\Q2_(API).csproj|solutionrelative:q2_(api)\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA677447-2FE0-4864-89FF-DB88C2B0D0F8}|NorthwindMVC\\NorthwindMVC.csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\q2_(api)\\northwindmvc\\models\\ordermvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA677447-2FE0-4864-89FF-DB88C2B0D0F8}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\models\\ordermvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427BC2CB-7FCB-445C-9647-914791D2765C}|Q2_(API)\\Q2_(API).csproj|c:\\users\\dharangkanigas\\dotnet training\\assessments\\q2_(api)\\q2_(api)\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{427BC2CB-7FCB-445C-9647-914791D2765C}|Q2_(API)\\Q2_(API).csproj|solutionrelative:q2_(api)\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderMVC.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Q2_(API)\\NorthwindMVC\\Models\\OrderMVC.cs",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Models\\OrderMVC.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Q2_(API)\\NorthwindMVC\\Models\\OrderMVC.cs",
+              "RelativeToolTip": "NorthwindMVC\\Models\\OrderMVC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T05:50:55.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Q2_(API)\\NorthwindMVC\\Views\\OrdersMVC\\Index.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Views\\OrdersMVC\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Q2_(API)\\NorthwindMVC\\Views\\OrdersMVC\\Index.cshtml",
+              "RelativeToolTip": "NorthwindMVC\\Views\\OrdersMVC\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T05:14:45.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersMVCController.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Q2_(API)\\NorthwindMVC\\Controllers\\OrdersMVCController.cs",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Controllers\\OrdersMVCController.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Q2_(API)\\NorthwindMVC\\Controllers\\OrdersMVCController.cs",
+              "RelativeToolTip": "NorthwindMVC\\Controllers\\OrdersMVCController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvwUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T05:12:31.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Q2_(API)\\Q2_(API)\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Q2_(API)\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Q2_(API)\\Q2_(API)\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Q2_(API)\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvwwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T05:06:09.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Q2_(API)\\Q2_(API)\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Q2_(API)\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\dharangkanigas\\DotNet Training\\Assessments\\Q2_(API)\\Q2_(API)\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Q2_(API)\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-06-09T05:04:57.308Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

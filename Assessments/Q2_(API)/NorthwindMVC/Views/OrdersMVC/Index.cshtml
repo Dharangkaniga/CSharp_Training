@@ -1,0 +1,22 @@
+﻿@model List<NorthwindMVC.Models.OrderMVC>
+
+<h2>Steven Buchanan Orders (EmployeeID = 5)</h2>
+
+<table border="1">
+    <tr>
+        <th>Order ID</th>
+        <th>Customer ID</th>
+        <th>Order Date</th>
+        <th>Ship City</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.OrderID</td>
+            <td>@item.CustomerID</td>
+            <td>@item.OrderDate</td>
+            <td>@item.ShipCity</td>
+        </tr>
+    }
+</table>
